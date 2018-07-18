@@ -1,8 +1,8 @@
 # ArduinoPython
 
-#GUI solo GUI
+#GUI.py solo GUI
 
-#adruinoGUI controla arduino con python
+#adruinoGUI.py controla arduino con python
 
 #ref:
 #https://www.tutorialspoint.com/python/python_gui_programming.htm
