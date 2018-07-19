@@ -11,3 +11,9 @@
 #https://recursospython.com/guias-y-manuales/lista-desplegable-combobox-en-tkinter/
 
 #http://effbot.org/tkinterbook/grid.htm
+
+#instalar https://github.com/tino/pyFirmata
+
+#pip install pyfirmata
+
+#pip install pyserial
